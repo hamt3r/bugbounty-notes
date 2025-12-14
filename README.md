@@ -1,8 +1,8 @@
-# bugbounty-notes
+# Bug Bounty Notes & Security Research
 
 This repository contains:
-- Bug bounty notes
-- Proof of Concepts (PoC)
-- Security testing experiments
+- HackerOne and Bugcrowd research notes
+- Proof of Concepts (PoCs)
+- Security testing labs and checklists
 
-⚠️ All testing is performed on targets where I have permission.
+All research is conducted responsibly and on authorized targets only.
